@@ -1,8 +1,10 @@
 '''
-1.0 Jedi Training (17pts)  Name:________________
+1.0 Jedi Training (17pts)  Name:Hudson Kerchal
 
 
-1. Define Forking (1pt): 
+1. Define Forking (1pt):
+ making a copy of a repository
+from an organization to my account on GitHub
 
 2. Define Cloning (1pt): 
 
@@ -30,7 +32,7 @@ t=turtle.Turtle()
 s=turtle.Screen()
 s.bgcolor('black')
 t.pencolor('lavender')
-t.color('lavender')
+t.color('white')
 a=0
 b=0
 t.speed(0)
